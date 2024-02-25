@@ -1,0 +1,115 @@
+Array
+(
+    [history_question1] => George Washington
+    [history_question2] => George Washington
+    [history_question3] => Thomas Jefferson
+    [history_question4] => James Madison
+    [history_question5] => James Monroe
+    [history_question6] => John Quincy Adams
+    [history_question7] => 
+    [history_question8] => 
+    [history_question9] => 
+    [history_question10] => 
+    [history_question11] => 
+    [history_question12] => 
+    [history_question13] => 
+    [history_question14] => 
+    [history_question15] => 
+    [history_question16] => 
+    [history_question17] => 
+    [history_question18] => 
+    [history_question19] => 
+    [history_question20] => 
+)
+Array
+(
+    [history_question1] => George Washington
+    [history_question2] => George Washington
+    [history_question3] => Thomas Jefferson
+    [history_question4] => James Madison
+    [history_question5] => James Monroe
+    [history_question6] => John Quincy Adams
+    [history_question7] => 
+    [history_question8] => 
+    [history_question9] => 
+    [history_question10] => 
+    [history_question11] => 
+    [history_question12] => 
+    [history_question13] => 
+    [history_question14] => 
+    [history_question15] => 
+    [history_question16] => 
+    [history_question17] => 
+    [history_question18] => 
+    [history_question19] => 
+    [history_question20] => 
+)
+Array
+(
+    [history_question1] => George Washington
+    [history_question2] => George Washington
+    [history_question3] => Thomas Jefferson
+    [history_question4] => James Madison
+    [history_question5] => James Monroe
+    [history_question6] => John Quincy Adams
+    [history_question7] => 
+    [history_question8] => 
+    [history_question9] => 
+    [history_question10] => 
+    [history_question11] => 
+    [history_question12] => 
+    [history_question13] => 
+    [history_question14] => 
+    [history_question15] => 
+    [history_question16] => 
+    [history_question17] => 
+    [history_question18] => 
+    [history_question19] => 
+    [history_question20] => 
+)
+Array
+(
+    [history_question1] => George Washington
+    [history_question2] => John Adams
+    [history_question3] => 
+    [history_question4] => 
+    [history_question5] => 
+    [history_question6] => 
+    [history_question7] => 
+    [history_question8] => 
+    [history_question9] => 
+    [history_question10] => 
+    [history_question11] => 
+    [history_question12] => 
+    [history_question13] => 
+    [history_question14] => 
+    [history_question15] => 
+    [history_question16] => 
+    [history_question17] => 
+    [history_question18] => 
+    [history_question19] => 
+    [history_question20] => 
+)
+Array
+(
+    [history_question1] => George Washington
+    [history_question2] => John Adams
+    [history_question3] => 
+    [history_question4] => 
+    [history_question5] => 
+    [history_question6] => 
+    [history_question7] => 
+    [history_question8] => 
+    [history_question9] => 
+    [history_question10] => 
+    [history_question11] => 
+    [history_question12] => 
+    [history_question13] => 
+    [history_question14] => 
+    [history_question15] => 
+    [history_question16] => 
+    [history_question17] => 
+    [history_question18] => 
+    [history_question19] => 
+    [history_question20] => 
+)
